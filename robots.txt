@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarify-hostinga.github.io/virtualnyy-hosting-spravka/sitemap.xml
